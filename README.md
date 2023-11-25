@@ -8,7 +8,7 @@
 
 <b>Synergy and Innovation:</b> I believe in the power of synergizing traditional finance expertise with cutting-edge data science. My vision is to innovate in corporate finance by integrating advanced data analysis and AI methodologies, driving efficiency and foresight in financial decision-making.
 
-<b>Let's Connect!</b> I welcome connections, discussions, and opportunities that align with my passion for data and finance. Feel free to reach out if you're interested in collaborating or exchanging ideas!
+I welcome connections, discussions, and opportunities that align with my passion for data and finance. Feel free to reach out if you're interested in collaborating or exchanging ideas!
 
 <b>Contacts</b> 
 
